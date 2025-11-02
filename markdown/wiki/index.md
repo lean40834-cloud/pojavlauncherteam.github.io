@@ -1,3 +1,4 @@
+lean
 
 # Welcome to the PojavLauncher Wiki!
 ____
